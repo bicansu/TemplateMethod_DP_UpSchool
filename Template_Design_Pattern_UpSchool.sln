@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template_Design_Pattern_UpSchool", "Template_Design_Pattern_UpSchool\Template_Design_Pattern_UpSchool.csproj", "{B25B5097-7919-4D5E-9B9D-F23DAF2CC60E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25B5097-7919-4D5E-9B9D-F23DAF2CC60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25B5097-7919-4D5E-9B9D-F23DAF2CC60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25B5097-7919-4D5E-9B9D-F23DAF2CC60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25B5097-7919-4D5E-9B9D-F23DAF2CC60E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26FF158F-A3AD-4810-9173-0666E1C92986}
+	EndGlobalSection
+EndGlobal
